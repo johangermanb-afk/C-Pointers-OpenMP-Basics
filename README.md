@@ -15,7 +15,7 @@ El código fuente está organizado en sesiones de aprendizaje:
 *   `sessions/02-c-ejercicios/`: Ejercicios de lógica de programación y manejo de memoria usando aritmética de punteros en C.
 *   `sessions/03-openmp/`: Implementación de paralelismo en procesadores multinúcleo (memoria compartida) utilizando directivas de OpenMP.
 
-## ⚙️ Compilación y Ejecución
+##  Compilación y Ejecución
 
 **Para los ejercicios de C básico (Punteros):**
 ```bash
